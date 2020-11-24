@@ -1,5 +1,7 @@
 package cz.student_evidence.ui;
 
+import cz.student_evidence.services.StudentService;
+
 import java.util.Scanner;
 
 public class ScannerTool {
